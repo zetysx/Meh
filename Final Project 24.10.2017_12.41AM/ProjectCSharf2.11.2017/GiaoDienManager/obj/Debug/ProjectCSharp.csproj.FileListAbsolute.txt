@@ -1,0 +1,89 @@
+C:\Users\Admin\Desktop\ProjectCSharf\GiaoDienManager\obj\Debug\ProjectCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmBanQuyen.resources
+C:\Users\Admin\Desktop\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmKhachHang.resources
+C:\Users\Admin\Desktop\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmMain.resources
+C:\Users\Admin\Desktop\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmQuanLyKho.resources
+C:\Users\Admin\Desktop\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmSanPham.resources
+C:\Users\Admin\Desktop\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmTaiKhoanNhanVien.resources
+C:\Users\Admin\Desktop\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmThongKe.resources
+C:\Users\Admin\Desktop\ProjectCSharf\GiaoDienManager\obj\Debug\ProjectCSharp.Properties.Resources.resources
+C:\Users\Admin\Desktop\ProjectCSharf\GiaoDienManager\obj\Debug\ProjectCSharp.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\ProjectCSharf\GiaoDienManager\obj\Debug\ProjectCSharp.exe
+C:\Users\Admin\Desktop\ProjectCSharf\GiaoDienManager\obj\Debug\ProjectCSharp.pdb
+C:\Users\Admin\Desktop\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmDangNhap.resources
+C:\Users\Admin\Desktop\ProjectCSharf\GiaoDienManager\bin\Debug\ProjectCSharp.exe.config
+C:\Users\Admin\Desktop\ProjectCSharf\GiaoDienManager\bin\Debug\ProjectCSharp.exe
+C:\Users\Admin\Desktop\ProjectCSharf\GiaoDienManager\bin\Debug\ProjectCSharp.pdb
+C:\Users\Admin\Desktop\ProjectCSharf\GiaoDienManager\obj\Debug\ProjectCSharp.frmTaoHoaDon.resources
+C:\Users\ASUS\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\bin\Debug\ProjectCSharp.exe.config
+C:\Users\ASUS\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\ProjectCSharp.exe
+C:\Users\ASUS\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\ProjectCSharp.pdb
+C:\Users\ASUS\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\bin\Debug\ProjectCSharp.exe
+C:\Users\ASUS\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\bin\Debug\ProjectCSharp.pdb
+C:\Users\ASUS\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\ProjectCSharp.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmBanQuyen.resources
+C:\Users\ASUS\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmDangNhap.resources
+C:\Users\ASUS\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmKhachHang.resources
+C:\Users\ASUS\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmMain.resources
+C:\Users\ASUS\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmQuanLyKho.resources
+C:\Users\ASUS\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmSanPham.resources
+C:\Users\ASUS\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmTaiKhoanNhanVien.resources
+C:\Users\ASUS\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\ProjectCSharp.frmTaoHoaDon.resources
+C:\Users\ASUS\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmThongKe.resources
+C:\Users\ASUS\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\ProjectCSharp.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\ProjectCSharp.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\ProjectCSharp.frmTienDo.resources
+C:\Users\Admin\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\bin\Debug\ProjectCSharp.exe.config
+C:\Users\Admin\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\ProjectCSharp.exe
+C:\Users\Admin\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\ProjectCSharp.pdb
+C:\Users\Admin\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\bin\Debug\ProjectCSharp.exe
+C:\Users\Admin\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\bin\Debug\ProjectCSharp.pdb
+C:\Users\Admin\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\ProjectCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmBanQuyen.resources
+C:\Users\Admin\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmDangNhap.resources
+C:\Users\Admin\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmKhachHang.resources
+C:\Users\Admin\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmMain.resources
+C:\Users\Admin\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmQuanLyKho.resources
+C:\Users\Admin\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmSanPham.resources
+C:\Users\Admin\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmTaiKhoanNhanVien.resources
+C:\Users\Admin\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\ProjectCSharp.frmTaoHoaDon.resources
+C:\Users\Admin\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmThongKe.resources
+C:\Users\Admin\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\ProjectCSharp.frmTienDo.resources
+C:\Users\Admin\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\ProjectCSharp.Properties.Resources.resources
+C:\Users\Admin\Desktop\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\ProjectCSharp.csproj.GenerateResource.Cache
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\bin\Debug\ProjectCSharp.exe.config
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\ProjectCSharp.exe
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\ProjectCSharp.pdb
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\bin\Debug\ProjectCSharp.exe
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\bin\Debug\ProjectCSharp.pdb
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\ProjectCSharp.csprojResolveAssemblyReference.cache
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmBanQuyen.resources
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmDangNhap.resources
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmKhachHang.resources
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmMain.resources
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmQuanLyKho.resources
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmSanPham.resources
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmTaiKhoanNhanVien.resources
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\ProjectCSharp.frmTaoHoaDon.resources
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\GiaoDienManager.frmThongKe.resources
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\ProjectCSharp.frmTienDo.resources
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\ProjectCSharp.Properties.Resources.resources
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf\GiaoDienManager\obj\Debug\ProjectCSharp.csproj.GenerateResource.Cache
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf2.11.2017\GiaoDienManager\bin\Debug\ProjectCSharp.exe.config
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf2.11.2017\GiaoDienManager\obj\Debug\ProjectCSharp.exe
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf2.11.2017\GiaoDienManager\obj\Debug\ProjectCSharp.pdb
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf2.11.2017\GiaoDienManager\bin\Debug\ProjectCSharp.exe
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf2.11.2017\GiaoDienManager\bin\Debug\ProjectCSharp.pdb
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf2.11.2017\GiaoDienManager\obj\Debug\ProjectCSharp.csprojResolveAssemblyReference.cache
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf2.11.2017\GiaoDienManager\obj\Debug\GiaoDienManager.frmBanQuyen.resources
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf2.11.2017\GiaoDienManager\obj\Debug\GiaoDienManager.frmDangNhap.resources
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf2.11.2017\GiaoDienManager\obj\Debug\GiaoDienManager.frmKhachHang.resources
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf2.11.2017\GiaoDienManager\obj\Debug\GiaoDienManager.frmMain.resources
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf2.11.2017\GiaoDienManager\obj\Debug\GiaoDienManager.frmQuanLyKho.resources
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf2.11.2017\GiaoDienManager\obj\Debug\GiaoDienManager.frmSanPham.resources
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf2.11.2017\GiaoDienManager\obj\Debug\GiaoDienManager.frmTaiKhoanNhanVien.resources
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf2.11.2017\GiaoDienManager\obj\Debug\ProjectCSharp.frmTaoHoaDon.resources
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf2.11.2017\GiaoDienManager\obj\Debug\GiaoDienManager.frmThongKe.resources
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf2.11.2017\GiaoDienManager\obj\Debug\ProjectCSharp.frmTienDo.resources
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf2.11.2017\GiaoDienManager\obj\Debug\ProjectCSharp.Properties.Resources.resources
+D:\study\C#\Final-Project-24.10.2017_12.41AM_3\Final Project 24.10.2017_12.41AM\ProjectCSharf2.11.2017\GiaoDienManager\obj\Debug\ProjectCSharp.csproj.GenerateResource.Cache

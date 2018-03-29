@@ -48,7 +48,8 @@ namespace GiaoDienManager
                 if (dt.Rows.Count != 0)
                 {
                     DataRow[] loginAccount = myds.Tables["Account"].Select(string.Format("Username = '{0}'", txtName.Text));
-                    RoleForFrom.Role = loginAccount[0]["Role"].ToString();                   
+                    RoleForFrom.Role = loginAccount[0]["Role"].ToString();
+                    RoleForFrom.Username = loginAccount[0]["Username"].ToString();
                     MessageBox.Show("Đăng nhập thành công với tài khoản : "+ txtName.Text +
                         "\nTruy cập với quyền : " + RoleForFrom.Role);
                     loginrole(RoleForFrom.Role);

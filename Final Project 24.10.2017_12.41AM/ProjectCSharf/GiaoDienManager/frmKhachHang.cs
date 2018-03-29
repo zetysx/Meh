@@ -61,12 +61,14 @@ namespace GiaoDienManager
                 dgvKhachHang.DataSource = myds.Tables["CustomerData"];
 
                 //Việt Hóa Dữ liệu trên datagrid View
-        /*        myds.Tables["CustomerData"].Columns["CustomerID"].ColumnName = "Mã Khách Hàng";
+                myds.Tables["CustomerData"].Columns["CustomerID"].ColumnName = "Mã Khách Hàng";
                 myds.Tables["CustomerData"].Columns["CustomerName"].ColumnName = "Tên Khách Hàng";
                 myds.Tables["CustomerData"].Columns["BirthDay"].ColumnName = "Ngày Sinh";
                 myds.Tables["CustomerData"].Columns["Sex"].ColumnName = "Giới Tính";
                 myds.Tables["CustomerData"].Columns["Address"].ColumnName = "Địa Chỉ";
-                myds.Tables["CustomerData"].Columns["Type"].ColumnName = "Loại Tài Khoản";*/
+                myds.Tables["CustomerData"].Columns["Type"].ColumnName = "Loại Tài Khoản";
+
+                dgvKhachHang.Columns["Status"].Visible = false;
             }
             catch
             {
@@ -89,7 +91,6 @@ namespace GiaoDienManager
         private void frmKhachHang_Load(object sender, EventArgs e)
         {
             LoadData();
-            dgvKhachHang.Columns["Status"].Visible = false;
         }
 
         private void label4_Click(object sender, EventArgs e)
@@ -126,7 +127,7 @@ namespace GiaoDienManager
                 return;
             }
             newCustomer["CustomerName"] = txtName.Text;
-            newCustomer["BirthDay"] = datePickerNgaySinh.Value;
+            newCustomer["BirthDay"] = datePickerNgaySinh.Value.ToShortDateString();
             newCustomer["Sex"] = cbSex.Text;
             newCustomer["Address"] = txtAddress.Text;
             if (chkType.Checked == true)

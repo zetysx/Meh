@@ -93,6 +93,7 @@
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Tìm Camera ID theo tên";
+            this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
             // txtQuanity
             // 
@@ -126,7 +127,6 @@
             this.quảnLíSảnPhẩmToolStripMenuItem});
             this.cmnSanPham.Name = "cmnSanPham";
             this.cmnSanPham.Size = new System.Drawing.Size(168, 26);
-            this.cmnSanPham.Opening += new System.ComponentModel.CancelEventHandler(this.cmnSanPham_Opening);
             // 
             // quảnLíSảnPhẩmToolStripMenuItem
             // 
@@ -387,7 +387,6 @@
             this.txtCustomerNameOrder.Size = new System.Drawing.Size(25, 13);
             this.txtCustomerNameOrder.TabIndex = 1;
             this.txtCustomerNameOrder.Text = "......";
-            this.txtCustomerNameOrder.Click += new System.EventHandler(this.txtCustomerNameOrder_Click);
             // 
             // label7
             // 

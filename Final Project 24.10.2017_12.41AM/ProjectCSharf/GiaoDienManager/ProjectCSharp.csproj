@@ -108,6 +108,12 @@
     <Compile Include="frmTienDo.Designer.cs">
       <DependentUpon>frmTienDo.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmXemLichSu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmXemLichSu.Designer.cs">
+      <DependentUpon>frmXemLichSu.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TempOrder.cs" />
@@ -140,6 +146,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmTienDo.resx">
       <DependentUpon>frmTienDo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmXemLichSu.resx">
+      <DependentUpon>frmXemLichSu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

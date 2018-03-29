@@ -41,6 +41,7 @@
             this.btnLuu = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
             this.btnThemMoiCamera = new System.Windows.Forms.Button();
+            this.btnXemLichSu = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvSearchCameraKho)).BeginInit();
             this.groupNhapKho.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numSoLuong)).BeginInit();
@@ -59,7 +60,7 @@
             // btnTimKiem
             // 
             this.btnTimKiem.Location = new System.Drawing.Point(265, 64);
-            this.btnTimKiem.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnTimKiem.Margin = new System.Windows.Forms.Padding(2);
             this.btnTimKiem.Name = "btnTimKiem";
             this.btnTimKiem.Size = new System.Drawing.Size(75, 21);
             this.btnTimKiem.TabIndex = 8;
@@ -70,7 +71,7 @@
             // txtTimKiem
             // 
             this.txtTimKiem.Location = new System.Drawing.Point(104, 65);
-            this.txtTimKiem.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtTimKiem.Margin = new System.Windows.Forms.Padding(2);
             this.txtTimKiem.Name = "txtTimKiem";
             this.txtTimKiem.Size = new System.Drawing.Size(159, 20);
             this.txtTimKiem.TabIndex = 7;
@@ -88,12 +89,12 @@
             // dgvSearchCameraKho
             // 
             this.dgvSearchCameraKho.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvSearchCameraKho.Location = new System.Drawing.Point(360, 67);
-            this.dgvSearchCameraKho.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.dgvSearchCameraKho.Location = new System.Drawing.Point(360, 106);
+            this.dgvSearchCameraKho.Margin = new System.Windows.Forms.Padding(2);
             this.dgvSearchCameraKho.MultiSelect = false;
             this.dgvSearchCameraKho.Name = "dgvSearchCameraKho";
             this.dgvSearchCameraKho.RowTemplate.Height = 28;
-            this.dgvSearchCameraKho.Size = new System.Drawing.Size(457, 425);
+            this.dgvSearchCameraKho.Size = new System.Drawing.Size(457, 386);
             this.dgvSearchCameraKho.TabIndex = 9;
             this.dgvSearchCameraKho.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvSearchCameraKho_CellClick);
             this.dgvSearchCameraKho.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvSearchCameraKho_CellContentClick);
@@ -107,9 +108,9 @@
             this.groupNhapKho.Controls.Add(this.btnLuu);
             this.groupNhapKho.Controls.Add(this.label3);
             this.groupNhapKho.Location = new System.Drawing.Point(21, 160);
-            this.groupNhapKho.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupNhapKho.Margin = new System.Windows.Forms.Padding(2);
             this.groupNhapKho.Name = "groupNhapKho";
-            this.groupNhapKho.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupNhapKho.Padding = new System.Windows.Forms.Padding(2);
             this.groupNhapKho.Size = new System.Drawing.Size(318, 185);
             this.groupNhapKho.TabIndex = 10;
             this.groupNhapKho.TabStop = false;
@@ -118,7 +119,7 @@
             // numSoLuong
             // 
             this.numSoLuong.Location = new System.Drawing.Point(99, 63);
-            this.numSoLuong.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.numSoLuong.Margin = new System.Windows.Forms.Padding(2);
             this.numSoLuong.Name = "numSoLuong";
             this.numSoLuong.Size = new System.Drawing.Size(67, 20);
             this.numSoLuong.TabIndex = 22;
@@ -136,7 +137,7 @@
             // btnThoat
             // 
             this.btnThoat.Location = new System.Drawing.Point(228, 138);
-            this.btnThoat.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnThoat.Margin = new System.Windows.Forms.Padding(2);
             this.btnThoat.Name = "btnThoat";
             this.btnThoat.Size = new System.Drawing.Size(75, 31);
             this.btnThoat.TabIndex = 12;
@@ -147,7 +148,7 @@
             // txtMaCamera
             // 
             this.txtMaCamera.Location = new System.Drawing.Point(99, 21);
-            this.txtMaCamera.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtMaCamera.Margin = new System.Windows.Forms.Padding(2);
             this.txtMaCamera.Name = "txtMaCamera";
             this.txtMaCamera.ReadOnly = true;
             this.txtMaCamera.Size = new System.Drawing.Size(204, 20);
@@ -156,12 +157,13 @@
             // btnLuu
             // 
             this.btnLuu.Location = new System.Drawing.Point(121, 138);
-            this.btnLuu.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnLuu.Margin = new System.Windows.Forms.Padding(2);
             this.btnLuu.Name = "btnLuu";
             this.btnLuu.Size = new System.Drawing.Size(75, 31);
             this.btnLuu.TabIndex = 11;
-            this.btnLuu.Text = "Lưu";
+            this.btnLuu.Text = "Thêm";
             this.btnLuu.UseVisualStyleBackColor = true;
+            this.btnLuu.Click += new System.EventHandler(this.btnLuu_Click);
             // 
             // label3
             // 
@@ -176,7 +178,7 @@
             // btnThemMoiCamera
             // 
             this.btnThemMoiCamera.Location = new System.Drawing.Point(21, 106);
-            this.btnThemMoiCamera.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnThemMoiCamera.Margin = new System.Windows.Forms.Padding(2);
             this.btnThemMoiCamera.Name = "btnThemMoiCamera";
             this.btnThemMoiCamera.Size = new System.Drawing.Size(318, 31);
             this.btnThemMoiCamera.TabIndex = 13;
@@ -184,12 +186,24 @@
             this.btnThemMoiCamera.UseVisualStyleBackColor = true;
             this.btnThemMoiCamera.Click += new System.EventHandler(this.btnThemMoiCamera_Click);
             // 
+            // btnXemLichSu
+            // 
+            this.btnXemLichSu.Location = new System.Drawing.Point(360, 64);
+            this.btnXemLichSu.Margin = new System.Windows.Forms.Padding(2);
+            this.btnXemLichSu.Name = "btnXemLichSu";
+            this.btnXemLichSu.Size = new System.Drawing.Size(140, 21);
+            this.btnXemLichSu.TabIndex = 23;
+            this.btnXemLichSu.Text = "Xem Lịch Sử";
+            this.btnXemLichSu.UseVisualStyleBackColor = true;
+            this.btnXemLichSu.Click += new System.EventHandler(this.btnXemLichSu_Click);
+            // 
             // frmQuanLyKho
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
             this.ClientSize = new System.Drawing.Size(828, 519);
+            this.Controls.Add(this.btnXemLichSu);
             this.Controls.Add(this.btnThemMoiCamera);
             this.Controls.Add(this.groupNhapKho);
             this.Controls.Add(this.dgvSearchCameraKho);
@@ -198,7 +212,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.label2);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "frmQuanLyKho";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Quản Lý Kho";
@@ -227,5 +241,6 @@
         private System.Windows.Forms.Button btnLuu;
         private System.Windows.Forms.Button btnThoat;
         private System.Windows.Forms.Button btnThemMoiCamera;
+        private System.Windows.Forms.Button btnXemLichSu;
     }
 }

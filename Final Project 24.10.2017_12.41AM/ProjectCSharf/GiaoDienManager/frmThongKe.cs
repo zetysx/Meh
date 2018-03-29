@@ -132,13 +132,13 @@ namespace GiaoDienManager
                 myds.Tables["ThongKeThuNhap"].Columns.Clear();
             }
             SqlCommand cmd = new SqlCommand("Select ox.OrderListID,ox.CustomerID,ox.[Date],ox.UsernameID,t.Tong " +
-                                            "From tblOrderList ox , (Select l.OrderListID, Tong = sum(Price * Quantity) " +
+                                            "From tblOrderList ox , (Select l.OrderListID, Tong = sum(Price * o.Quantity) " +
                                                                     "From tblOrderDetail o, tblCamera c, tblOrderList l " +
                                                                     "Where l.OrderListID = o.OrderListID and o.CameraID = c.CameraID " +
                                                                     "Group by l.OrderListID) t " +
                                             "Where Date >= @fromDate and Date <= @toDate and ox.OrderListID = t.OrderListID", new SqlConnection(constring));            
-            cmd.Parameters.AddWithValue("@fromDate", dateTuNgay.Value);
-            cmd.Parameters.AddWithValue("@toDate", dateDenNgay.Value);
+            cmd.Parameters.AddWithValue("@fromDate", dateTuNgay.Value.ToString("yyyy-MM-dd"));
+            cmd.Parameters.AddWithValue("@toDate", dateDenNgay.Value.ToString("yyyy-MM-dd"));
 
             SqlDataAdapter adaptThongKeThuNhap = new SqlDataAdapter(cmd);
             adaptThongKeThuNhap.Fill(myds, "ThongKeThuNhap");
@@ -452,7 +452,7 @@ namespace GiaoDienManager
                 myds.Tables["TongSoHoaDon"].Columns.Clear();
             }
             SqlCommand cmd3 = new SqlCommand("Select ox.OrderListID,ox.CustomerID,ox.[Date],ox.UsernameID,t.Tong " +
-                                            "From tblOrderList ox , (Select l.OrderListID, Tong = sum(Price * Quantity) " +
+                                            "From tblOrderList ox , (Select l.OrderListID, Tong = sum(Price * o.Quantity) " +
                                                                     "From tblOrderDetail o, tblCamera c, tblOrderList l " +
                                                                     "Where l.OrderListID = o.OrderListID and o.CameraID = c.CameraID " +
                                                                     "Group by l.OrderListID) t " + 

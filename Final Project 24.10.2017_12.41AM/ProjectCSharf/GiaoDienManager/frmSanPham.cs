@@ -41,6 +41,7 @@ namespace GiaoDienManager
         {
             LoadData();           
             dgvCameraData.Columns["Status"].Visible = false;
+            dgvCameraData.Columns["Quantity"].Visible = false;
         }
 
        
@@ -70,7 +71,8 @@ namespace GiaoDienManager
                 myds.Tables["CameraData"].Columns["ChatLieu"].ColumnName = "Chất Liệu";
                 myds.Tables["CameraData"].Columns["HoTro"].ColumnName = "Hỗ Trợ";
 
-
+                dgvCameraData.Columns["Status"].Visible = false;
+                dgvCameraData.Columns["Quantity"].Visible = false;
             }
             catch (Exception e)
             {
@@ -325,6 +327,9 @@ namespace GiaoDienManager
                 myds.Tables["SearchCamera"].Columns["NhietDo"].ColumnName = "Nhiệt Độ";
                 myds.Tables["SearchCamera"].Columns["ChatLieu"].ColumnName = "Chất Liệu";
                 myds.Tables["SearchCamera"].Columns["HoTro"].ColumnName = "Hỗ Trợ";
+
+                dgvCameraData.Columns["Status"].Visible = false;
+                dgvCameraData.Columns["Quantity"].Visible = false;
             }
             
         }

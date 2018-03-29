@@ -113,7 +113,7 @@ namespace GiaoDienManager
             {
                 if (datePickerNgaySinh.Value != null)
                 {
-                    newStaff["BirthDay"] = datePickerNgaySinh.Value;
+                    newStaff["BirthDay"] = datePickerNgaySinh.Value.ToShortDateString();
                 }
                 else
                 {

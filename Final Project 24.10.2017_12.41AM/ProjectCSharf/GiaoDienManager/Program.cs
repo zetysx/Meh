@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ProjectCSharp;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -9,6 +10,7 @@ namespace GiaoDienManager
     public static class RoleForFrom
     {
         private static string role = "";
+        private static string username = "";
 
         public static string Role
         {
@@ -20,6 +22,19 @@ namespace GiaoDienManager
             set
             {
                 role = value;
+            }
+        }
+
+        public static string Username
+        {
+            get
+            {
+                return username;
+            }
+
+            set
+            {
+                username = value;
             }
         }
     }
